@@ -1,2 +1,0 @@
-# manual-counter
-manual-counter
